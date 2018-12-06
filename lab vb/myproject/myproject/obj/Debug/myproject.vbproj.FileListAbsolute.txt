@@ -1,0 +1,13 @@
+D:\lab vb\myproject\myproject\bin\Debug\myproject.exe.config
+D:\lab vb\myproject\myproject\bin\Debug\myproject.exe
+D:\lab vb\myproject\myproject\bin\Debug\myproject.pdb
+D:\lab vb\myproject\myproject\bin\Debug\myproject.xml
+D:\lab vb\myproject\myproject\obj\Debug\myproject.vbprojResolveAssemblyReference.cache
+D:\lab vb\myproject\myproject\obj\Debug\myproject.Form1.resources
+D:\lab vb\myproject\myproject\obj\Debug\myproject.Resources.resources
+D:\lab vb\myproject\myproject\obj\Debug\myproject.vbproj.GenerateResource.Cache
+D:\lab vb\myproject\myproject\obj\Debug\myproject.exe
+D:\lab vb\myproject\myproject\obj\Debug\myproject.xml
+D:\lab vb\myproject\myproject\obj\Debug\myproject.pdb
+D:\lab vb\myproject\myproject\obj\Debug\myproject.lab_1.resources
+D:\lab vb\myproject\myproject\obj\Debug\myproject.lab_2.resources
